@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushvikramsingh
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning Cloud and .NET
+- 🌱 I’m currently learning Cloud and .NET Framework
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me out ayushvikramsingh425@gmail.com
 
